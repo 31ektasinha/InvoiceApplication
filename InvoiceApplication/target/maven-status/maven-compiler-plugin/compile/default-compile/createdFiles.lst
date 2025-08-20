@@ -1,0 +1,7 @@
+org\application\model\Dealer.class
+org\application\model\Invoice.class
+org\application\service\InvoiceService.class
+org\application\utils\PdfUtil.class
+org\application\InvoiceApplication.class
+org\application\model\Vehicle.class
+org\application\controller\InvoiceController.class
